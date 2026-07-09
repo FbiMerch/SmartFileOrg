@@ -24,5 +24,29 @@ A modern, asynchronous-friendly Java application that scans a target directory a
 ### 1. Clone Repository
 ```bash
 git clone [https://github.com/monolut/-Smart-File-Organizer.git](https://github.com/monolut/-Smart-File-Organizer.git)
-###2.Build
+```
+### 2.Build
 mvn clean install
+### 3.Run
+mvn javafx:run
+
+## Screenshots
+
+### Main Window
+
+<img width="449" height="278" alt="main_window" src="https://github.com/user-attachments/assets/a18a2bfa-ce47-44cd-887a-e84d854c5b76" />
+
+
+### Before Organizing
+
+<img width="648" height="493" alt="before_organizing" src="https://github.com/user-attachments/assets/bd1a8820-266a-420f-935e-fe4b754f96cc" />
+
+
+### After Organizing
+
+<img width="622" height="135" alt="after_organizing" src="https://github.com/user-attachments/assets/7e8a82e0-75b5-4fdf-bc55-d7b92b30615a" />
+
+
+
+
+
